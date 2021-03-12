@@ -41,7 +41,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/alexandredev3/moveit-nlw4.git
+$ git clone https://github.com/BrayanAndrade/NLW4-moveit
 
 # Vá para a pasta moveit-nlw4
 $ cd moveit-nlw4
