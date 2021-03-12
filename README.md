@@ -43,9 +43,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 # Clone este repositório.
 $ git clone https://github.com/BrayanAndrade/NLW4-moveit
 
-# Vá para a pasta moveit-nlw4
-$ cd moveit-nlw4
-
 # Instale as dependências
 $ npm install 
 
